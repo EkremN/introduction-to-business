@@ -26,10 +26,8 @@
   "license": "CC-BY-NC-4.0",
   "main": "n/a",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "gatsby build --prefix-paths",
-    // "deploy": "npm -s run build && gh-pages -d ./public -b gh-pages",
+    "deploy": "npm -s run build && gh-pages -d ./public -b gh-pages",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
   },
@@ -41,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EkremN/introduction-to-business"
+    "url": "https://github.com/EkremN/introduction-to-business"
   },
   "bugs": {
     "url": "https://github.com/EkremN/introduction-to-business/issues"
