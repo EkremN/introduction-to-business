@@ -1,8 +1,8 @@
 {
-  "name": "intro-to-web-dev-v2",
-  "description": "Intro to Web Dev v2",
+  "name": "intro-to-business",
+  "description": "Intro to Business",
   "version": "1.0.0",
-  "author": "Brian Holt <btholt+intro.web.dev@gmail.com>",
+  "author": "Ekrem Nurovic",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
@@ -39,10 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/btholt/intro-to-web-dev-v2.git"
+    "url": "git+https://github.com/EkremN/introduction-to-business"
   },
   "bugs": {
-    "url": "https://github.com/btholt/intro-to-web-dev-v2/issues"
+    "url": "https://github.com/EkremN/introduction-to-business/issues"
   },
-  "homepage": "https://github.com/btholt/intro-to-web-dev-v2#readme"
+  "homepage": "https://ekremn.github.io/introduction-to-business/"
 }
