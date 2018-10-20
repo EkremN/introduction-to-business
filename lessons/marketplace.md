@@ -4,12 +4,12 @@ order: 3
 path: "/marketplace"
 ---
 
-As access to technology skyrockets and barriers to trade continue to fall, individual economies around the world have become more interdependent than ever before. The result is a tightly woven global economy marked by intense competition and huge, shifting opportunities. The long-term potential for businesses all around the world is enormous. Although the global economic crisis caused the world GDP to contract in 2009 for the first time since World War II, compared with average increases of about 3.5% per year since 1946, world GDP growth turned positive again in 2010 and 2011, continuing a slow, steady pace through 2015.
+As access to technology skyrockets and barriers to trade continue to fall, individual economies around the world have become more interdependent than ever before. The result is a tightly woven global economy marked by intense competition and huge, shifting opportunities. The long-term potential for businesses all around the world is enormous.
 
 A quick look at population trends validates the global
 business opportunity, especially in developing nations. In October 2011, the world’s population surpassed seven billion people.
 
-### Emerging Economies
+<!-- ### Emerging Economies
 
 For the last two decades, experts have looked to the BRIC countries — Brazil, Russia, India, and China — as the engines of future world economic growth. And with their large populations, rapid development, and robust middle-class growth rates, the BRIC countries doubtless deserved that attention.
 
@@ -21,7 +21,13 @@ By early 2016, however, the BRIC countries appeared to hit a wall. This is espec
 
 Brazil and Russia, on the other hand, have actually been experiencing negative economic growth. Some 16% of young Brazilians are unemployed, boding poorly for the country’s future. India remains the lone bright spot among the BRIC countries. Still, despite its ongoing economic strength, India must address important issues such as infrastructure investment and regulatory reforms to maintain its robust growth. So with the BRIC countries playing less of a role than expected, which areas are currently emerging in today’s global marketplace? Most experts seem to see a pattern of emergence in Southeast Asia and Africa. Vietnam, the Philippines, and Bangladesh are all benefitting from the migration of labor-intensive, low-wage manufacturing jobs away from China. As more jobs are created, these locations will likely begin to develop sturdy middle classes and stabilized economies. A number of sub-Saharan African nations, such as Nigeria, Kenya, and Angola, also represent an enormous opportunity for economic growth. According to a Standard Bank of Africa report, in the 11 countries that represent 50% of Africa’s GDP, there are 15 million households in the middle class. The Standard Bank of Africa predicts that this number will grow to 42 million by 2030.
 
-This kind of prediction has spurred gigantic firms such as Kellogg’s, Procter & Gamble, and Walmart to capitalize on the opportunity and make multimillion-dollar investments in Africa. Unfortunately, as is often the case, the opportunity comes hand in hand with massive challenges. Many African countries are rife with security risks, political instability, and flat-out civil war. Africa also faces seemingly intractable infrastructure problems, including insufficient access to fresh water and electricity. A silver lining, however, is that solving these infrastructure issues could itself be a new opportunity for investors and entrepreneurs.
+This kind of prediction has spurred gigantic firms such as Kellogg’s, Procter & Gamble, and Walmart to capitalize on the opportunity and make multimillion-dollar investments in Africa. Unfortunately, as is often the case, the opportunity comes hand in hand with massive challenges. Many African countries are rife with security risks, political instability, and flat-out civil war. Africa also faces seemingly intractable infrastructure problems, including insufficient access to fresh water and electricity. A silver lining, however, is that solving these infrastructure issues could itself be a new opportunity for investors and entrepreneurs. -->
+
+![nbt](/images/tnbt.jpg)
+
+In the dawning age of 3-D printing and driverless cars, smartphones, it’s hard not to wonder when the next big thing will come to your neighborhood. Where are smart buildings, houses, smart body. And how about flying cars? According to the World Intellectual Property Organization, the United States filed more international patents than any other country in 2015—a position it has held comfortably for nearly four decades. Computer technology made up the largest percentage of patents filed (8.2%) in 2015, with digital communication (8%), electronic machinery (7.3%), and medical technology (6.3%) not far behind. This gives some indication as to what sort of thing the next be thing is likely to be — you shouldn’t be surprised if it relates to technology.
+
+<iframe width="816" height="459" src="https://www.youtube.com/embed/j9UTRquZohY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Key Reasons for International Trade
 
@@ -39,17 +45,10 @@ Beyond individual companies, industries tend to succeed on a worldwide basis in 
 
 ## Balance of Trade
 
-The balance of trade is a basic measure of the difference between a nation’s exports and imports. If the total value of exports is higher than the total value of imports, the country has a trade surplus. If the total value of imports is higher than the total value of exports, the country has a trade deficit. Balance of trade includes the value of both goods and services, and it incorporates trade with all foreign nations. Although a trade deficit signals the wealth of an economy that can afford to buy huge amounts of foreign products, a large deficit can be destabilizing. It indicates, after all, that as goods and services flow into a nation, money flows out — a challenge with regard to long-term economic health.
+The balance of trade is a basic measure of the difference between a nation’s exports and imports. If the total value of exports is higher than the total value of imports, the country has a trade __surplus__. If the total value of imports is higher than the total value of exports, the country has a trade __deficit__. Balance of trade includes the value of both goods and services, and it incorporates trade with all foreign nations. Although a trade deficit signals the wealth of an economy that can afford to buy huge amounts of foreign products, a large deficit can be destabilizing. It indicates, after all, that as goods and services flow into a nation, money flows out — a challenge with regard to long-term economic health.
 
-### Balance of Payments
+__Balance of payments__ is a measure of the total flow of money into or out of a country. Clearly, the balance of trade plays a central role in determining the balance of payments. But the balance of payments also includes other financial flows such as foreign borrowing and lending, foreign aid payments and receipts, and foreign investments. A __balance of payments surplus__ means that more money flows in than out, while a __balance of payments deficit__ means that more money flows out than in. Keep in mind that the balance of payments typically corresponds to the balance of trade because trade is, in general, the largest component.
 
-Balance of payments is a measure of the total flow of money into or out of a country. Clearly, the balance of trade plays a central role in determining the balance of payments. But the balance of payments also includes other financial flows such as foreign borrowing and lending, foreign aid payments and receipts, and foreign investments. A balance of payments surplus means that more money flows in than out, while a balance of payments deficit means that more money flows out than in. Keep in mind that the balance of payments typically corresponds to the balance of trade because trade is, in general, the largest component.
-
-### Exchange Rates
-
-Exchange rates measure the value of one nation’s currency relative to the currency of other nations. While the exchange rate does not directly measure global commerce, it certainly has a powerful influence on how global trade affects individual nations and their trading partners.
-
-A complete evaluation of global trade must also consider exchanges that don’t actually involve money. A surprisingly large chunk of international commerce— possibly as much as 25%—involves the barter of products for products rather than for currency. Companies typically engage in countertrade to meet the needs of customers that don’t have access to hard currency or credit, usually in developing countries. Individual countertrade agreements range from simple barter to a complex web of exchanges that end up meeting the needs of multiple parties. Done poorly, countertrading can be a confusing nightmare for everyone involved. But done well, countertrading is a powerful tool for gaining customers and products that would not otherwise be available. Not surprisingly, barter opportunities tend to increase during economic downturns. In 2009, for example, ads began to appear both in Russian newspapers and online, such as one that offered “2,500,000 rubles’ worth of premium underwear for any automobile,” and another that offered “lumber in Krasnoyarsk for food or medicine.
 
 ### Countertrade
 

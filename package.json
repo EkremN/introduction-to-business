@@ -26,15 +26,15 @@
   "license": "CC-BY-NC-4.0",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build --prefix-paths",
-    "deploy": "npm -s run build && gh-pages -d ./public -b gh-pages",
-    "develop": "gatsby develop",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
+  "build": "gatsby build --prefix-paths",
+  "deploy": "gh-pages -b master -d build",
+  "develop": "gatsby develop",
+  "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
   },
   "devDependencies": {
     "eslint": "^4.14.0",
     "gatsby-cli": "^1.1.52",
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "prettier": "^1.9.2"
   },
   "repository": {
