@@ -1,6 +1,8 @@
 # Welcome
 
 Welcome to the code behind Introduction to Business.
+You can find page on: 
+https://ekremn.github.io/introduction-to-business/
 
 ## Devlopment
 

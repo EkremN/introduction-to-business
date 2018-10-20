@@ -1,4 +1,4 @@
----
+g---
 title: "Business Ethics and Social Responsibility: Doing Well by Doing Good"
 order: 4
 path: "/ethics"
