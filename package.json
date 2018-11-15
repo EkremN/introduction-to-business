@@ -26,10 +26,10 @@
   "license": "CC-BY-NC-4.0",
   "main": "n/a",
   "scripts": {
-  "build": "gatsby build --prefix-paths",
-  "deploy": "gh-pages -b master -d build",
-  "develop": "gatsby develop",
-  "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
+    "build": "gatsby build --prefix-paths",
+    "deploy": "gh-pages -b master -d build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
   },
   "devDependencies": {
     "eslint": "^4.14.0",
