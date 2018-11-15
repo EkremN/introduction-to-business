@@ -48,9 +48,46 @@ Another case is if you want to work for someone. You need to understand culture,
 * Main book: __Kelly, M. & Williams, C. (2017). _Introduction to Business_, BUSN 10, USA.__
 * Secondary Book: __Jeff M. (2007). _Introduction to Business_, edition 4, USA.__
 
+### Students that are working on project
 
-## Who Am I? 
+__Back end__
+
+Ida Bajrami <br>
+Amina Muzurović
+
+__Design__ <br>
+Davud Kosovac
+
+
+__Content Creators__
+
+Anida Čamdžić <br>
+Berina Šerkić <br>
+Zehra Ilgün  <br>
+Enisa Baic <br>
+Hasan Okanovic <br>
+Mirela Imamovic <br>
+
+__Video editor__
+
+
+## Instruction how to study for the mid-term
+
+* You can study by reading the book or just using website.
+* Read and understand all chapters (Business Now: Change Is the Only Constant; Assessing Economic Conditions; The World Marketplace: Business without Borders; Business Ethics and Social Responsibility: Doing Well by Doing Good; Business Communication: Creating and Delivering Messages that Matter; Business Formation: Choosing the Form that Fits).
+* Pay attention to two case studies: "Amazon" and "Start with why".
+* Exam will consist of two parsts: <br> 
+a) You will be asked to define or explain ten terms.
+<br> Example: Profit, Ethics, Tariffs <br>
+b) You will have another 10 open-ended questions.
+<br> Example: Please discuss what is the role of invisible hand in economy.
+* Your own understanding and explanation would be enough. No need to memorize definitions from the book or website.
+* Good luck!
+
+
+
+<!-- ## Who Am I? 
 
 My name is Ekrem Nurovic. I teach Digital Marketing, Service Marketing, Marketing Management and Introduction to Business. My passion is entrepreneurship. Created my first company when I was a third year student. With that company won first place in Burch startup competition. Created team, developed project, won "Regional Imagine Cup" organized by Microsoft. 
 
-I'm studying onile web development and I knid of like JsvaScript or batter to say MERN (MongoDB, Express, React, Node.js). In my free time I'm trying to lear some design Photoshop and Illustrator and I also do some sport.  
+I'm studying onile web development and I knid of like JsvaScript or batter to say MERN (MongoDB, Express, React, Node.js). In my free time I'm trying to lear some design Photoshop and Illustrator and I also do some sport.   -->

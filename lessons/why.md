@@ -1,6 +1,6 @@
 ---
 order: 18
-title: " Case Study I Start with why"
+title: " Case Study I Start with Why"
 path: "/why"
 ---
 

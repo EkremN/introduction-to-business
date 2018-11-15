@@ -8,8 +8,6 @@ Day by day, the business world simply spins faster. Industries rise — and some
 Trendwatching.com and author Ian Altman  recently identified ten trends likely to shape the
 world of business:
 
-<!-- ![git logo](/images/changes.jpeg) -->
-
 __Instant Skills:__ 
 Instagram made us all professional photographers. Millions of status-hungry “consumers will care less
 about what they have or buy and more about what
@@ -69,9 +67,13 @@ People who do risk their time, money, and other
 resources to start and manage a business are called
 __entrepreneurs__.
 
-Interestingly, as entrepreneurs create wealth for
-themselves, they produce a ripple effect that enriches
-everyone around them. For instance, if your new website becomes the next Facebook, who will benefit? Clearly, you will. And you’ll probably spend at least some of that money enriching your local clubs, clothing stores, and car dealerships. But others will benefit, too, including your members, advertisers on your site and the staff who support them, contractors who build your facilities, and the government that collects your taxes. The impact of one successful entrepreneur can extend to the far reaches of the economy. In fact, fast growing new firms generate about 10% of all new jobs in any given year. Multiply the impact by thousands of entrepreneurs — each working in his or her own self interest—and you can see how the profit motive benefits virtually everyone. From a bigger-picture perspective, business drives up the standard of living for people worldwide, contributing to a __higher quality of life__. Businesses not only provide the products and services that people enjoy but also provide the jobs that people need. Beyond the obvious, business contributes to society through innovation — think cars, TVs, and tablet computers. Business also helps raise the standard of living through taxes, which the government spends on projects that range from streetlights to environmental cleanup.
+__Entrepreneurship__ is the pursuit of opportunity beyond resources controlled
+
+__Pursuit:__ the actions of an individual entrepreneur — drive, resiliency, focus, discipline, and balance
+__Opportunity:__ the type of venture — a better, cheaper, or more efficient offering for the customer
+__Beyond resources controlled:__ managing the risks of external constraints
+
+Interestingly, as entrepreneurs create wealth for themselves, they produce a ripple effect that enriches everyone around them. For instance, if your new website becomes the next Facebook, who will benefit? Clearly, you will. And you’ll probably spend at least some of that money enriching your local clubs, clothing stores, and car dealerships. But others will benefit, too, including your members, advertisers on your site and the staff who support them, contractors who build your facilities, and the government that collects your taxes. The impact of one successful entrepreneur can extend to the far reaches of the economy. In fact, fast growing new firms generate about 10% of all new jobs in any given year. Multiply the impact by thousands of entrepreneurs — each working in his or her own self interest—and you can see how the profit motive benefits virtually everyone. From a bigger-picture perspective, business drives up the standard of living for people worldwide, contributing to a __higher quality of life__. Businesses not only provide the products and services that people enjoy but also provide the jobs that people need. Beyond the obvious, business contributes to society through innovation — think cars, TVs, and tablet computers. Business also helps raise the standard of living through taxes, which the government spends on projects that range from streetlights to environmental cleanup.
 
 ## Nonprofits and the Economy: The Business of Doing Good
 
@@ -97,8 +99,7 @@ potential.
 
 ## The Business Environment: The Context for Success
 
-No business operates in a vacuum. Outside factors play a vital role in determining whether each individual business
-succeeds or fails. Likewise, the broader business environment can make the critical difference in whether an overall economy thrives or disintegrates. The five key dimensions of the business environment are the economic environment, the competitive environment, the technological environment,the social environment, and the global environment.
+No business operates in a vacuum. Outside factors play a vital role in determining whether each individual business succeeds or fails. Likewise, the broader business environment can make the critical difference in whether an overall economy thrives or disintegrates. The five key dimensions of the business environment are the economic environment, the competitive environment, the technological environment,the social environment, and the global environment.
 
 #### The Economic Environment
 
