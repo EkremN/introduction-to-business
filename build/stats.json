@@ -1,0 +1,140 @@
+{
+  "assetsByChunkName": {
+    "path---tweets": [
+      "path---tweets-a0e39f21c11f6a62c5ab.js",
+      "path---tweets-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-3af4a31df3a5ee04b7d1.js",
+      "component---src-pages-index-js-3af4a31df3a5ee04b7d1.js.map"
+    ],
+    "path---product-and-promotion": [
+      "path---product-and-promotion-40e0a3c065d79d5ef174.js",
+      "path---product-and-promotion-40e0a3c065d79d5ef174.js.map"
+    ],
+    "path---midterm": [
+      "path---midterm-38907ceaee85437ab3b0.js",
+      "path---midterm-38907ceaee85437ab3b0.js.map"
+    ],
+    "path---operations-management": [
+      "path---operations-management-89ed14c0227632d2b4c0.js",
+      "path---operations-management-89ed14c0227632d2b4c0.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---economic": [
+      "path---economic-ed5bc7b1c631850dc261.js",
+      "path---economic-ed5bc7b1c631850dc261.js.map"
+    ],
+    "path---alibaba": [
+      "path---alibaba-1787ad111d9a0300863c.js",
+      "path---alibaba-1787ad111d9a0300863c.js.map"
+    ],
+    "path---human-resource": [
+      "path---human-resource-70c8abb77239a1ec0758.js",
+      "path---human-resource-70c8abb77239a1ec0758.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-b7236428900ae57182d4.js",
+      "component---src-layouts-index-js-b7236428900ae57182d4.js.map"
+    ],
+    "path---amazon": [
+      "path---amazon-74614b26b55a484e5ced.js",
+      "path---amazon-74614b26b55a484e5ced.js.map"
+    ],
+    "path---why": [
+      "path---why-1a0eea5dad18258e2a21.js",
+      "path---why-1a0eea5dad18258e2a21.js.map"
+    ],
+    "path---ethics": [
+      "path---ethics-ce9b172afbe3ba82dd57.js",
+      "path---ethics-ce9b172afbe3ba82dd57.js.map"
+    ],
+    "path---change": [
+      "path---change-24281002fac5b8e7fed0.js",
+      "path---change-24281002fac5b8e7fed0.js.map"
+    ],
+    "path---accounting": [
+      "path---accounting-5b80ace7e5a27b2aa351.js",
+      "path---accounting-5b80ace7e5a27b2aa351.js.map"
+    ],
+    "path---index": [
+      "path---index-162719e5fb3de2b96658.js",
+      "path---index-162719e5fb3de2b96658.js.map"
+    ],
+    "component---src-pages-tweets-js": [
+      "component---src-pages-tweets-js-e6bbdeb1c6b464142a8d.js",
+      "component---src-pages-tweets-js-e6bbdeb1c6b464142a8d.js.map"
+    ],
+    "path---management-motivation-leadership": [
+      "path---management-motivation-leadership-e0ed7d86923b1a431132.js",
+      "path---management-motivation-leadership-e0ed7d86923b1a431132.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-33209d3a2b8236f186b8.js",
+      "build-js-styles.css",
+      "commons-33209d3a2b8236f186b8.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---finance": [
+      "path---finance-3c30338cb6d34e9378fb.js",
+      "path---finance-3c30338cb6d34e9378fb.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-lesson-template-js": [
+      "component---src-templates-lesson-template-js-938707ffea20fb22bd68.js",
+      "component---src-templates-lesson-template-js-938707ffea20fb22bd68.js.map"
+    ],
+    "path---marketplace": [
+      "path---marketplace-ff4e3af547d14cc4d548.js",
+      "path---marketplace-ff4e3af547d14cc4d548.js.map"
+    ],
+    "path---presentations": [
+      "path---presentations-d2519e59040f5d6aa9c6.js",
+      "path---presentations-d2519e59040f5d6aa9c6.js.map"
+    ],
+    "path---marketing": [
+      "path---marketing-05117ffc22adb200dd22.js",
+      "path---marketing-05117ffc22adb200dd22.js.map"
+    ],
+    "path---ps": [
+      "path---ps-d1531edc184b61a81fe8.js",
+      "path---ps-d1531edc184b61a81fe8.js.map"
+    ],
+    "path---entrepreneurship": [
+      "path---entrepreneurship-03ec6c4429069e02d220.js",
+      "path---entrepreneurship-03ec6c4429069e02d220.js.map"
+    ],
+    "app": [
+      "app-bbd77285e8d80630c14a.js",
+      "build-js-styles.css",
+      "app-bbd77285e8d80630c14a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---business-formation": [
+      "path---business-formation-0350bcb774583d999583.js",
+      "path---business-formation-0350bcb774583d999583.js.map"
+    ],
+    "path---intro": [
+      "path---intro-4f362acfbef9566dcfcb.js",
+      "path---intro-4f362acfbef9566dcfcb.js.map"
+    ],
+    "path---communication": [
+      "path---communication-74b2c4afd966f4180d22.js",
+      "path---communication-74b2c4afd966f4180d22.js.map"
+    ]
+  }
+}
