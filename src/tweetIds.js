@@ -56,5 +56,5 @@
 //   "995905908831150080",
 //   "995842420200951813"
 // ];
-
-// export default tweets;
+const tweets = [];
+export default tweets;
