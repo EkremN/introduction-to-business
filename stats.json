@@ -4,69 +4,73 @@
       "path---tweets-a0e39f21c11f6a62c5ab.js",
       "path---tweets-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---node": [
-      "path---node-a5aad88d4fe839d7d193.js",
-      "path---node-a5aad88d4fe839d7d193.js.map"
-    ],
-    "path---meta-html": [
-      "path---meta-html-dda03851f08983ec85c7.js",
-      "path---meta-html-dda03851f08983ec85c7.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-e47a937ba97ddfb29e0c.js",
-      "component---src-pages-index-js-e47a937ba97ddfb29e0c.js.map"
+      "component---src-pages-index-js-602216b74aa16ec27883.js",
+      "component---src-pages-index-js-602216b74aa16ec27883.js.map"
     ],
-    "path---js-project": [
-      "path---js-project-db726edf9d6108644862.js",
-      "path---js-project-db726edf9d6108644862.js.map"
+    "path---product-and-promotion": [
+      "path---product-and-promotion-40e0a3c065d79d5ef174.js",
+      "path---product-and-promotion-40e0a3c065d79d5ef174.js.map"
+    ],
+    "path---midterm": [
+      "path---midterm-38907ceaee85437ab3b0.js",
+      "path---midterm-38907ceaee85437ab3b0.js.map"
+    ],
+    "path---operations-management": [
+      "path---operations-management-89ed14c0227632d2b4c0.js",
+      "path---operations-management-89ed14c0227632d2b4c0.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---tools": [
-      "path---tools-a34318fad89c3f709348.js",
-      "path---tools-a34318fad89c3f709348.js.map"
+    "path---economic": [
+      "path---economic-ed5bc7b1c631850dc261.js",
+      "path---economic-ed5bc7b1c631850dc261.js.map"
     ],
-    "path---project-html-css": [
-      "path---project-html-css-4b51b126e34adefc42db.js",
-      "path---project-html-css-4b51b126e34adefc42db.js.map"
+    "path---alibaba": [
+      "path---alibaba-1787ad111d9a0300863c.js",
+      "path---alibaba-1787ad111d9a0300863c.js.map"
     ],
-    "path---dom": [
-      "path---dom-da68a5b1d9b56bef2b5f.js",
-      "path---dom-da68a5b1d9b56bef2b5f.js.map"
-    ],
-    "path---ajax": [
-      "path---ajax-6167468824a3566bf642.js",
-      "path---ajax-6167468824a3566bf642.js.map"
+    "path---human-resource": [
+      "path---human-resource-70c8abb77239a1ec0758.js",
+      "path---human-resource-70c8abb77239a1ec0758.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-37952e12168078fbbaf7.js",
-      "component---src-layouts-index-js-37952e12168078fbbaf7.js.map"
+      "component---src-layouts-index-js-b65a7b2e3c38ddd3b080.js",
+      "component---src-layouts-index-js-b65a7b2e3c38ddd3b080.js.map"
     ],
-    "path---deploying": [
-      "path---deploying-1f225cc478f9f8cbf551.js",
-      "path---deploying-1f225cc478f9f8cbf551.js.map"
+    "path---amazon": [
+      "path---amazon-74614b26b55a484e5ced.js",
+      "path---amazon-74614b26b55a484e5ced.js.map"
     ],
-    "path---selectors": [
-      "path---selectors-19d785bece015f987c8d.js",
-      "path---selectors-19d785bece015f987c8d.js.map"
+    "path---why": [
+      "path---why-1a0eea5dad18258e2a21.js",
+      "path---why-1a0eea5dad18258e2a21.js.map"
     ],
-    "path---git-and-bash": [
-      "path---git-and-bash-0dc21408453f9dc1bbad.js",
-      "path---git-and-bash-0dc21408453f9dc1bbad.js.map"
+    "path---ethics": [
+      "path---ethics-ce9b172afbe3ba82dd57.js",
+      "path---ethics-ce9b172afbe3ba82dd57.js.map"
+    ],
+    "path---change": [
+      "path---change-24281002fac5b8e7fed0.js",
+      "path---change-24281002fac5b8e7fed0.js.map"
+    ],
+    "path---accounting": [
+      "path---accounting-59b127166a8e5c6abf77.js",
+      "path---accounting-59b127166a8e5c6abf77.js.map"
     ],
     "path---index": [
-      "path---index-6d97a304ef000b574103.js",
-      "path---index-6d97a304ef000b574103.js.map"
+      "path---index-f54055076d147f0a016b.js",
+      "path---index-f54055076d147f0a016b.js.map"
     ],
     "component---src-pages-tweets-js": [
-      "component---src-pages-tweets-js-d8d013fd18c25a7e0450.js",
-      "component---src-pages-tweets-js-d8d013fd18c25a7e0450.js.map"
+      "component---src-pages-tweets-js-91e55c402b4ef1eae37e.js",
+      "component---src-pages-tweets-js-91e55c402b4ef1eae37e.js.map"
     ],
-    "path---layout-css": [
-      "path---layout-css-57f884e61bf251bcd0f1.js",
-      "path---layout-css-57f884e61bf251bcd0f1.js.map"
+    "path---management-motivation-leadership": [
+      "path---management-motivation-leadership-e0ed7d86923b1a431132.js",
+      "path---management-motivation-leadership-e0ed7d86923b1a431132.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -78,67 +82,59 @@
       "commons-33209d3a2b8236f186b8.js.map",
       "build-js-styles.css.map"
     ],
+    "path---finance": [
+      "path---finance-3c30338cb6d34e9378fb.js",
+      "path---finance-3c30338cb6d34e9378fb.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-lesson-template-js": [
-      "component---src-templates-lesson-template-js-cedbe7755b6e39d5056d.js",
-      "component---src-templates-lesson-template-js-cedbe7755b6e39d5056d.js.map"
+      "component---src-templates-lesson-template-js-5d8bd7c5d1da7d107a0f.js",
+      "component---src-templates-lesson-template-js-5d8bd7c5d1da7d107a0f.js.map"
     ],
-    "path---final-thoughts": [
-      "path---final-thoughts-a9eaf64b92e81d7c97ab.js",
-      "path---final-thoughts-a9eaf64b92e81d7c97ab.js.map"
+    "path---marketplace": [
+      "path---marketplace-ff4e3af547d14cc4d548.js",
+      "path---marketplace-ff4e3af547d14cc4d548.js.map"
     ],
-    "path---overview": [
-      "path---overview-d9deb2aefac81341e71b.js",
-      "path---overview-d9deb2aefac81341e71b.js.map"
+    "path---presentations": [
+      "path---presentations-d2519e59040f5d6aa9c6.js",
+      "path---presentations-d2519e59040f5d6aa9c6.js.map"
     ],
-    "path---basic-html": [
-      "path---basic-html-8cd435142e1aeca52c04.js",
-      "path---basic-html-8cd435142e1aeca52c04.js.map"
+    "path---marketing": [
+      "path---marketing-05117ffc22adb200dd22.js",
+      "path---marketing-05117ffc22adb200dd22.js.map"
     ],
-    "path---libraries": [
-      "path---libraries-8b515d8dcd02067bb646.js",
-      "path---libraries-8b515d8dcd02067bb646.js.map"
+    "path---ps": [
+      "path---ps-d1531edc184b61a81fe8.js",
+      "path---ps-d1531edc184b61a81fe8.js.map"
+    ],
+    "path---entrepreneurship": [
+      "path---entrepreneurship-cd2ae6eeb547dd1945d8.js",
+      "path---entrepreneurship-cd2ae6eeb547dd1945d8.js.map"
     ],
     "app": [
-      "app-5d386895aa20f25eafca.js",
+      "app-c88eb7fd10a98432d1a2.js",
       "build-js-styles.css",
-      "app-5d386895aa20f25eafca.js.map",
+      "app-c88eb7fd10a98432d1a2.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---programming-fundamentals": [
-      "path---programming-fundamentals-b63904590d498623db8c.js",
-      "path---programming-fundamentals-b63904590d498623db8c.js.map"
-    ],
-    "path---html-next-steps": [
-      "path---html-next-steps-9d3ce5214a904630736b.js",
-      "path---html-next-steps-9d3ce5214a904630736b.js.map"
-    ],
-    "path---css-patterns": [
-      "path---css-patterns-06387a29d849cdccf878.js",
-      "path---css-patterns-06387a29d849cdccf878.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---functions-and-scope": [
-      "path---functions-and-scope-f5b7060dcafa3cfcc77d.js",
-      "path---functions-and-scope-f5b7060dcafa3cfcc77d.js.map"
+    "path---business-formation": [
+      "path---business-formation-0350bcb774583d999583.js",
+      "path---business-formation-0350bcb774583d999583.js.map"
     ],
     "path---intro": [
-      "path---intro-248638918fabb60dee79.js",
-      "path---intro-248638918fabb60dee79.js.map"
+      "path---intro-d3e2a8d4e168979ee3aa.js",
+      "path---intro-d3e2a8d4e168979ee3aa.js.map"
     ],
-    "path---basic-css": [
-      "path---basic-css-86899ef2ca95e1935311.js",
-      "path---basic-css-86899ef2ca95e1935311.js.map"
-    ],
-    "path---objects-and-arrays": [
-      "path---objects-and-arrays-46b178758e4e0e2bf2e2.js",
-      "path---objects-and-arrays-46b178758e4e0e2bf2e2.js.map"
+    "path---communication": [
+      "path---communication-74b2c4afd966f4180d22.js",
+      "path---communication-74b2c4afd966f4180d22.js.map"
     ]
   }
 }
