@@ -25,5 +25,3 @@ To publish
 Content licensed under Attribution-NonCommercial 4.0 International
 
 Code to run the site itself is licenced under Apache 2.0.
-
-[course]: https://btholt.github.io/intro-to-web-dev-v2/
