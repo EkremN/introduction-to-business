@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Intro to Web Dev v2`
+    title: `Introduction to Business`
   },
-  pathPrefix: "/intro-to-web-dev-v2",
+  pathPrefix: "/introduction-to-business",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
