@@ -4,8 +4,6 @@ order: 8
 path: "/entrepreneurship"
 ---
 
-Summary: __Idea__ > __Validation__ > __Customers__ > __ 
-
 ## <span style="color:#EA5300"> 1. Starting the Journey</span>
 
 ### 1.1. What is Entrepreneurship
