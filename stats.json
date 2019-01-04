@@ -8,69 +8,57 @@
       "component---src-pages-index-js-602216b74aa16ec27883.js",
       "component---src-pages-index-js-602216b74aa16ec27883.js.map"
     ],
-    "path---product-and-promotion": [
-      "path---product-and-promotion-40e0a3c065d79d5ef174.js",
-      "path---product-and-promotion-40e0a3c065d79d5ef174.js.map"
-    ],
     "path---midterm": [
-      "path---midterm-38907ceaee85437ab3b0.js",
-      "path---midterm-38907ceaee85437ab3b0.js.map"
-    ],
-    "path---operations-management": [
-      "path---operations-management-89ed14c0227632d2b4c0.js",
-      "path---operations-management-89ed14c0227632d2b4c0.js.map"
+      "path---midterm-d91e04105c8e10946b2f.js",
+      "path---midterm-d91e04105c8e10946b2f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---economic": [
-      "path---economic-35b7619962271dd300af.js",
-      "path---economic-35b7619962271dd300af.js.map"
+      "path---economic-497d8a30e100af9a0f1c.js",
+      "path---economic-497d8a30e100af9a0f1c.js.map"
     ],
-    "path---alibaba": [
-      "path---alibaba-1787ad111d9a0300863c.js",
-      "path---alibaba-1787ad111d9a0300863c.js.map"
-    ],
-    "path---human-resource": [
-      "path---human-resource-70c8abb77239a1ec0758.js",
-      "path---human-resource-70c8abb77239a1ec0758.js.map"
+    "path---product-promotion": [
+      "path---product-promotion-582ad8b1c9185ef7d817.js",
+      "path---product-promotion-582ad8b1c9185ef7d817.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-b65a7b2e3c38ddd3b080.js",
       "component---src-layouts-index-js-b65a7b2e3c38ddd3b080.js.map"
     ],
     "path---amazon": [
-      "path---amazon-14378cf92d591f519987.js",
-      "path---amazon-14378cf92d591f519987.js.map"
+      "path---amazon-72b50b14ccf1e5543c09.js",
+      "path---amazon-72b50b14ccf1e5543c09.js.map"
     ],
     "path---why": [
-      "path---why-0040788eec1a21a27f6e.js",
-      "path---why-0040788eec1a21a27f6e.js.map"
+      "path---why-ba23da457ef4bdc8b6f2.js",
+      "path---why-ba23da457ef4bdc8b6f2.js.map"
     ],
     "path---ethics": [
-      "path---ethics-d31569026c988039619f.js",
-      "path---ethics-d31569026c988039619f.js.map"
+      "path---ethics-53834646bb1b1961d849.js",
+      "path---ethics-53834646bb1b1961d849.js.map"
     ],
     "path---change": [
-      "path---change-24281002fac5b8e7fed0.js",
-      "path---change-24281002fac5b8e7fed0.js.map"
+      "path---change-cb2fe5a48fd8e7c37bb2.js",
+      "path---change-cb2fe5a48fd8e7c37bb2.js.map"
     ],
     "path---accounting": [
-      "path---accounting-59b127166a8e5c6abf77.js",
-      "path---accounting-59b127166a8e5c6abf77.js.map"
+      "path---accounting-c032f3ac0c8c5a61e882.js",
+      "path---accounting-c032f3ac0c8c5a61e882.js.map"
     ],
     "path---index": [
-      "path---index-f54055076d147f0a016b.js",
-      "path---index-f54055076d147f0a016b.js.map"
+      "path---index-5ad86b9d278c4eee2850.js",
+      "path---index-5ad86b9d278c4eee2850.js.map"
     ],
     "component---src-pages-tweets-js": [
       "component---src-pages-tweets-js-91e55c402b4ef1eae37e.js",
       "component---src-pages-tweets-js-91e55c402b4ef1eae37e.js.map"
     ],
     "path---management-motivation-leadership": [
-      "path---management-motivation-leadership-e0ed7d86923b1a431132.js",
-      "path---management-motivation-leadership-e0ed7d86923b1a431132.js.map"
+      "path---management-motivation-leadership-4d7a9183451078fc7485.js",
+      "path---management-motivation-leadership-4d7a9183451078fc7485.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -82,10 +70,6 @@
       "commons-33209d3a2b8236f186b8.js.map",
       "build-js-styles.css.map"
     ],
-    "path---finance": [
-      "path---finance-3c30338cb6d34e9378fb.js",
-      "path---finance-3c30338cb6d34e9378fb.js.map"
-    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
@@ -95,29 +79,25 @@
       "component---src-templates-lesson-template-js-5d8bd7c5d1da7d107a0f.js.map"
     ],
     "path---marketplace": [
-      "path---marketplace-375bbe771a454fd4b24c.js",
-      "path---marketplace-375bbe771a454fd4b24c.js.map"
+      "path---marketplace-fc2fe9d4d5898a4d7806.js",
+      "path---marketplace-fc2fe9d4d5898a4d7806.js.map"
     ],
     "path---presentations": [
-      "path---presentations-d2519e59040f5d6aa9c6.js",
-      "path---presentations-d2519e59040f5d6aa9c6.js.map"
+      "path---presentations-55691f5facbfea4bd07f.js",
+      "path---presentations-55691f5facbfea4bd07f.js.map"
     ],
     "path---marketing": [
-      "path---marketing-05117ffc22adb200dd22.js",
-      "path---marketing-05117ffc22adb200dd22.js.map"
-    ],
-    "path---ps": [
-      "path---ps-d1531edc184b61a81fe8.js",
-      "path---ps-d1531edc184b61a81fe8.js.map"
+      "path---marketing-7e4337253bb3a81fe6d5.js",
+      "path---marketing-7e4337253bb3a81fe6d5.js.map"
     ],
     "path---entrepreneurship": [
-      "path---entrepreneurship-87e11af3094536394d68.js",
-      "path---entrepreneurship-87e11af3094536394d68.js.map"
+      "path---entrepreneurship-50c39ffe7bc9273873f4.js",
+      "path---entrepreneurship-50c39ffe7bc9273873f4.js.map"
     ],
     "app": [
-      "app-c88eb7fd10a98432d1a2.js",
+      "app-90654826700e9d5a19ae.js",
       "build-js-styles.css",
-      "app-c88eb7fd10a98432d1a2.js.map",
+      "app-90654826700e9d5a19ae.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -125,16 +105,20 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---business-formation": [
-      "path---business-formation-0350bcb774583d999583.js",
-      "path---business-formation-0350bcb774583d999583.js.map"
+      "path---business-formation-1446029acbfffe12353d.js",
+      "path---business-formation-1446029acbfffe12353d.js.map"
     ],
     "path---intro": [
-      "path---intro-d3e2a8d4e168979ee3aa.js",
-      "path---intro-d3e2a8d4e168979ee3aa.js.map"
+      "path---intro-750e0aad0505b913145b.js",
+      "path---intro-750e0aad0505b913145b.js.map"
     ],
     "path---communication": [
-      "path---communication-74b2c4afd966f4180d22.js",
-      "path---communication-74b2c4afd966f4180d22.js.map"
+      "path---communication-fdb36b2ac4c18947e667.js",
+      "path---communication-fdb36b2ac4c18947e667.js.map"
+    ],
+    "path---final-exam": [
+      "path---final-exam-f3ff8808a4a7a8485fb6.js",
+      "path---final-exam-f3ff8808a4a7a8485fb6.js.map"
     ]
   }
 }
