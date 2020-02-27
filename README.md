@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the code behind Introduction to Web Development v2. The course can be found [here][course]. It best explains itself so read about it there.
+Welcome to the code behind Introduction to business.
 
 ## Devlopment
 
@@ -16,10 +16,10 @@ To publish
 
 ## License
 
-* Please, please use this material to learn to write code
+* Please, please use this material to learn something about business
 * Please share it with anyone who wants to learn
 * Please fork-and-fix any mistakes you see
-* Please use this material to teach in non-commercial settings. If you'd like to use this material in a commercial setting or to otherwise make money, contact me. DMs on Twitter work best
+* Please use this material to teach in non-commercial settings. If you'd like to use this material in a commercial setting or to otherwise make money, contact me.
 * Any other questions, just ask. Answer may be yes
 
 Content licensed under Attribution-NonCommercial 4.0 International
