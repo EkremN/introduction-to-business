@@ -38,56 +38,14 @@ Another case is if you want to work for someone. You need to understand culture,
 
 ### Assessment Methods Description (%)
 
-* Homework 10%
 * Midterm Exam 30%
-* Presentation 10%
+* Project 20% (presentation included)
 * Class Deliverables 10%
 * Final Exam 40% 
 
 ### Books
 * Main book: __Kelly, M. & Williams, C. (2017). _Introduction to Business_, BUSN 10, USA.__
 * Secondary Book: __Jeff M. (2007). _Introduction to Business_, edition 4, USA.__
-
-### Students that are working on project
-
-__Back end__
-
-Ida Bajrami <br>
-Amina Muzurović
-
-__Design__
-
-Davud Kosovac <br>
-Eldar Kurtovic <br>
-
-__Content Creators__
-
-Anida Čamdžić <br>
-Berina Šerkić <br>
-Zehra Ilgün  <br>
-Enisa Baic <br>
-Hasan Okanovic <br>
-Mirela Imamovic <br>
-
-__Video editor__
-
-Melika Muhanovic <br>
-Aldin Berisa <br>
-
-
-## Instruction how to study for the mid-term
-
-* You can study by reading the book or just using website.
-* Read and understand all chapters (Business Now: Change Is the Only Constant; Assessing Economic Conditions; The World Marketplace: Business without Borders; Business Ethics and Social Responsibility: Doing Well by Doing Good; Business Communication: Creating and Delivering Messages that Matter; Business Formation: Choosing the Form that Fits).
-* Pay attention to two case studies: "Amazon" and "Start with why".
-* Exam will consist of two parsts: <br> 
-a) You will be asked to define or explain ten terms.
-<br> Example: Profit, Ethics, Tariffs <br>
-b) You will have another 10 open-ended questions.
-<br> Example: Please discuss what is the role of invisible hand in economy.
-* Your own understanding and explanation would be enough. No need to memorize definitions from the book or website.
-* Good luck!
-
 
 
 <!-- ## Who Am I? 
